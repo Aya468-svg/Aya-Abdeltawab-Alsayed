@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Koded&logoColor=white" alt="Portfolio Badge">
     </a>
     <!-- Add your email address here -->
-    <a href="mailto:[aytbdaltawabbdaltawab@gmail.com]" target="_blank">
+    <a href="mailto:aytbdaltawabbdaltawab@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
     </a>
   </p>
