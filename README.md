@@ -9,7 +9,7 @@
 
   <!-- Header with professional font styling -->
   <div align="center">
-    <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #E0E0E0;">Hey 👋, I'm Aya abd eltawab alsayes</h2>
+    <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #E0E0E0;">Hey 👋, I'm Aya abd eltawab alsayed</h2>
     <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #B0B0B0;">
       <strong>A passionate QA Engineer dedicated to building high-quality software.</strong>
     </p>
@@ -30,7 +30,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Koded&logoColor=white" alt="Portfolio Badge">
     </a>
     <!-- Add your email address here -->
-    <a href="mailto:[YOUR_EMAIL@EXAMPLE.COM]" target="_blank">
+    <a href="mailto:[aytbdaltawabbdaltawab@gmail.com]" target="_blank">
       <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
     </a>
   </p>
