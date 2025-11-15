@@ -70,10 +70,4 @@
 
  
 
-  <p align="center">
-    <a href="http://hits.dwyl.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME].svg?style=flat-square" target="_blank">
-      <img src="https://hits.dwyl.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME].svg?style=flat-square" alt="HitCount">
-    </a>
-  </p>
-
-</div>
+ 
