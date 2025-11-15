@@ -15,26 +15,7 @@
     </p>
   </div>
 
-  <!-- Social Badges -->
-  <p align="center">
-    <!-- Add your LinkedIn profile URL here -->
-    <a href="[YOUR_LINKEDIN_PROFILE_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <!-- Add your GitHub profile URL here -->
-    <a href="[YOUR_GITHUB_PROFILE_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Follow Badge">
-    </a>
-    <!-- Add your portfolio website URL here -->
-    <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Koded&logoColor=white" alt="Portfolio Badge">
-    </a>
-    <!-- Add your email address here -->
-    <a href="mailto:aytbdaltawabbdaltawab@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
-    </a>
-  </p>
-
+ 
   <!-- About Me Section -->
   <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #CCCCCC;">
     I'm a <strong><span style="color: #58A6FF;">QA Engineer</span></strong> at <strong><a href="https://www.bayan-tech.com/" target="_blank" style="color: #58A6FF;">Bayan Tech Company</a></strong> with 2 years of professional experience in software quality assurance, test automation, and manual testing.
@@ -52,12 +33,7 @@
     <li>🔭 I’m currently focused on enhancing my skills in <strong><span style="color: #58A6FF;">test automation frameworks</span></strong> and <strong><span style="color: #58A6FF;">QA best practices</span></strong>.</li>
     <li>🌱 I'm passionate about building robust and scalable <strong><span style="color: #58A6FF;">test automation suites</span></strong> from scratch.</li>
     <li>🧐 Learning about <strong><span style="color: #58A6FF;">performance testing (JMeter)</span></strong>, <strong><span style="color: #58A6FF;">security testing (OWASP)</span></strong>, and <strong><span style="color: #58A6FF;">CI/CD integration</span></strong> for quality pipelines.</li>
-    <li>💬 Ping me about <strong><span style="color: #58A6FF;">test automation (Selenium, Cypress), manual testing, test strategy, and bug reporting</span></strong>.</li>
-    <li>👨‍💻 Most of my public projects are available on <a href="[YOUR_GITHUB_PROFILE_URL]" target="_blank" style="color: #58A6FF;">Github</a>.</li>
-    <li>📙 Check out my <a href="[YOUR_RESUME_LINK]" target="_blank" style="color: #58A6FF;">resume</a>.</li>
-    <li>📫 How to reach me: <a href="mailto:[YOUR_EMAIL@EXAMPLE.COM]" style="color: #58A6FF;"><strong>[YOUR_EMAIL@EXAMPLE.COM]</strong></a></li>
-  </ul>
-
+    
   <!-- Tools & Technologies Section -->
   <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #E0E0E0;">🚀 Tools & Technologies I Use</h2>
   <p align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #CCCCCC;">
@@ -92,18 +68,7 @@
   <br/>
   <br/>
 
-  <!-- GitHub Stats, Trophies, Top Languages -->
-  <div align="center">
-    <!-- 
-      Note: The 'theme=dark' parameter is used here. 
-      I'm using 'theme=transparent' or a dark theme like 'theme=github_dark' 
-      to blend with the black background.
-    -->
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E0E0E0&text_color=B0B0B0&icon_color=58A6FF" alt="github-stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E0E0E0&text_color=B0B0B0" alt="top-langs" width="48%"/>
-    <br/><br/>
-    <img src="https://github-readme-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=dark&margin-w=15&margin-h=15&bg_color=0d1117&no-frame=true" alt="github-trophies" />
-  </div>
+ 
 
   <p align="center">
     <a href="http://hits.dwyl.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME].svg?style=flat-square" target="_blank">
